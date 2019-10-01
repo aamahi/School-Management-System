@@ -1,0 +1,23 @@
+body{
+    margin-top:30px;
+    background:#ddd;
+}
+.login{
+    float:right;
+    margin-left: 10px;
+
+}
+.header{
+    margin-top:20px;
+    text-align: center;
+    color: blueviolet
+}
+.tbl{
+    margin-left: 240px;
+}
+.img{
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: 100px;
+}
